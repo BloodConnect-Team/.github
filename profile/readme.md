@@ -1,5 +1,6 @@
 # BloodConnect
-## IT Fest USU
+![icon](https://user-images.githubusercontent.com/69442735/227786926-8d88658e-961a-4ea1-a597-0a8333f652bb.png)
+
 
 ### Tema:
 Application Development
