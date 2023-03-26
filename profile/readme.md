@@ -22,8 +22,9 @@ Thanks goes to these wonderful people
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/apurnomo144"><img src="https://avatars.githubusercontent.com/u/107606630?v=4" width="100px;" alt=""/><br /><sub><b>Abraham Purnomo</b></sub></a><br /><p style="font-size:10px">Backend Facilitator</p></td>
-    <td align="center"><a href="https://github.com/raihan-muhammad"><img src="https://avatars.githubusercontent.com/u/51007619?v=4" width="100px;" alt=""/><br /><sub><b>Michael Muhammad Raihan</b></sub></a><br /><p style="font-size:10px">Frontend Facilitator</p></td>
+    <td align="center"><a href="https://github.com/fajar-dev"><img src="https://avatars.githubusercontent.com/u/69442735?v=4" width="100px;" alt=""/><br /><sub><b>Fajar Rivaldi Chan</b></sub></a><br /><p style="font-size:10px">Backend Developer (Ketua)</p></td>
+    <td align="center"><a href="https://github.com/sukmarizki04"><img src="https://avatars.githubusercontent.com/u/101231374?v=4" width="100px;" alt=""/><br /><sub><b>Sukma Rizki</b></sub></a><br /><p style="font-size:10px">Mobile Developer</p></td>
+    <td align="center"><a href="https://github.com/BrucelD14"><img src="https://avatars.githubusercontent.com/u/85801542?v=4" width="100px;" alt=""/><br /><sub><b>Brucel Duta Samudera</b></sub></a><br /><p style="font-size:10px">UI/UX Desinger</p></td>
   </tr>
 </table>
 
