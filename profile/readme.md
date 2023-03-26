@@ -40,7 +40,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 Special thanks goes to our supporters.
 
 <p>
-  <a href="https://pmi.or.id" target="_blank" rel="noopener noreferrer"><img height="80" src="https://ksrpmi.orgs.telkomuniversity.ac.id/wp-content/uploads/sites/26/2016/12/logo-pmi.png" alt="PMI"></a><br/>
+  <a href="https://pmi.or.id" target="_blank" rel="noopener noreferrer"><img height="80" src="https://ksrpmi.orgs.telkomuniversity.ac.id/wp-content/uploads/sites/26/2016/12/logo-pmi.png" alt="PMI"></a>
   <a href="https://unimal.ac.id" target="_blank" rel="noopener noreferrer"><img height="160" src="https://upload.wikimedia.org/wikipedia/commons/6/60/Logo-Unimal-Aceh_Utara.png" alt="unimal"></a></br>
 </p>
 
