@@ -35,6 +35,12 @@ Thanks goes to these wonderful people
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
 
+## Tech Stack
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" height="80" >
+<img src="https://logowik.com/content/uploads/images/flutter5786.jpg" height="80" >
+<img src="http://jwt.io/img/logo-asset.svg" height="80" >
+
+
 ## Supporters
 
 Special thanks goes to our supporters.
