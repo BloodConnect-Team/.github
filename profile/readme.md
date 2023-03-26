@@ -10,7 +10,7 @@ BloodConnect
 ### Deskripsi:
 
 
-### Fitur
+### Fitur:
 
 
 ## Contributors ✨
@@ -40,9 +40,8 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 Special thanks goes to our supporters.
 
 <p>
-  <a href="https://www.netlify.com/" target="_blank" rel="noopener noreferrer"><img height="80" src="https://global-uploads.webflow.com/5e70b9a791ceb781b605048c/62c5720d8b3b6003c2f46fa4_logo-binar-academy.svg" alt="Netlify"></a><br/>
-  <a href="https://www.gitbook.com/" target="_blank" rel="noopener noreferrer"><img height="80" src="https://kampusmerdeka.kemdikbud.go.id/static/media/logo-white@2x.5330316a.webp" alt="GitBook Logo"></a></br>
-  <a href="https://www.cypress.io/" target="_blank" rel="noopener noreferrer"><img height="80" alt="Cypress" src="https://kampusmerdeka.kemdikbud.go.id/static/media/logo-pendidikan@2x.0ce0acdc.webp" /></a>
+  <a href="https://pmi.or.id" target="_blank" rel="noopener noreferrer"><img height="80" src="https://pmi.or.id/wp-content/uploads/2021/11/logo2021-1.jpg" alt="Netlify"></a><br/>
+  <a href="https://unimal.ac.id" target="_blank" rel="noopener noreferrer"><img height="80" src="https://upload.wikimedia.org/wikipedia/commons/6/60/Logo-Unimal-Aceh_Utara.png" alt="GitBook Logo"></a></br>
 </p>
 
 
