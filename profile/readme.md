@@ -1,5 +1,5 @@
 # BloodConnect
-<img src="https://user-images.githubusercontent.com/69442735/227786926-8d88658e-961a-4ea1-a597-0a8333f652bb.png" height="160" >
+![Frame 25](https://user-images.githubusercontent.com/69442735/228314265-0f26e632-31ca-4fec-b099-15577a8c3d6f.png)
 
 ### Tema:
 Application Development
