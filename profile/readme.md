@@ -1,5 +1,5 @@
 # BloodConnect
-![Frame 25](https://user-images.githubusercontent.com/69442735/228314265-0f26e632-31ca-4fec-b099-15577a8c3d6f.png)
+![Frame 25](https://user-images.githubusercontent.com/69442735/230100970-dc7870fa-3e7c-4662-ba68-9357dd8438f8.png)
 
 ## Contributors ✨
 
